@@ -11,7 +11,11 @@ I have hosted the website on google servers for viewing
 please enter url : https://seniorinvesto.web.app 
 
 Into browser my created website will open 
+This website is designed so that its compatible with all devices eg: mobile , pc , tablets 
+I will update more features in coming time.
 
+
+Thankyou
 Shubhankar Chavan
 
 
