@@ -5,5 +5,13 @@ If the users have any critical illness or health issues the website guides them 
 If the users are more intrested into investment domain the website explains them several schemes and ways in laymans language to safely invest their hard earned money. 
 I have also included a trial page knowns a equity if users want to apply their decades of experience into markets 
 I am also ready to give presentation and fully explain the project. 
-***********************************************************************
+*********************************************************************** 
+I have hosted the website on google servers for viewing 
+
+please enter url : https://seniorinvesto.web.app 
+
+Into browser my created website will open 
+
+
+
 
